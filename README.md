@@ -1,2 +1,2 @@
 # Projetos-Faculdade
-Projetos academicos na area de desenvolvimento
+Projetos academicos na área de desenvolvimento
