@@ -14,16 +14,16 @@ Execução do desafio:
  - Se caso, o usuário não tenha cadastro no sistema, clicar em "Cadastrar-se" e preencher o formulário;
  - Se caso, o usuário já tenha efetuado o cadastro, fazer o login;
  - Login: 
-	> Cadastro no sistema;
-	> Facebook
+	- Cadastro no sistema;
+	- Facebook
 		
  - Quando o usuário fizer o login, entrará na pagina home.php (administrador), que tem por padrão
 a visualização da tabela de clientes, podendo fazer operações de alterar/remover direto da tabela;
 
 - Links da tabela:
-	> Alterar: assim que o usuário clicar no link "alterar" na tabela, exibirá um 'confirm dialog', clicando em "OK",
+	- Alterar: assim que o usuário clicar no link "alterar" na tabela, exibirá um 'confirm dialog', clicando em "OK",
 será redirecionado para a página de alterar os dados do cliente;
-	> Remover: quando o usuário clicar no link "remover" na tabela, exibirá um 'confirm dialog', clicando em "OK",
+	- Remover: quando o usuário clicar no link "remover" na tabela, exibirá um 'confirm dialog', clicando em "OK",
 o cliente será removido do banco de dados;
 
  - No link "Cadastrar Cliente" o usuário poderá inserir o cliente preenchendo os campos: nome e telefone, ao digitar o CEP
