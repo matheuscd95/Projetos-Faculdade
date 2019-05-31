@@ -31,7 +31,7 @@ o sistema irá preencher automaticamente: endereço, bairro, cidade, estado e pa
 para o usuário preencher;
 
 
-	OBS: 
+-OBS: 
 	- As máscaras de CEP e TELEFONE estão implementadas;
 	- Preencher campos automaticamente usando o CEP através do viacep.com.br;
 	- Login com o facebook;
