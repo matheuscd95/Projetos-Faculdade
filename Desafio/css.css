@@ -1,0 +1,140 @@
+div.login{
+    border: 1px solid rgb(158, 158, 158);
+    width: 380px;
+    padding: 10px 0;
+    margin: 200px auto 0 auto;
+    border-radius: 10px;
+}
+
+div.login h3{
+    width: 250px;
+    text-align: center;
+    margin: 10px auto 25px auto;
+}
+
+div.login form{
+    width: 300px;
+    margin: 0 auto;
+
+}
+
+div.login form input{
+    display: block;
+    margin: 15px auto 10px auto;
+    width: 95%;
+}
+
+div.login div{
+    width: 280px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+div.login a input{
+    width: 120px;
+    margin-left: 35%;
+    margin-bottom: 10px;
+}
+
+div.login div label{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+div.login div a input{
+    margin-left: 0;
+    padding: 3px;
+    margin-top: 8px;
+}
+
+div.cadastro label{
+    margin: 0;
+}
+
+div.cadastro a{
+    text-decoration: none;
+}
+
+div.cadastro form a input{
+    margin-left: 31%;
+}
+
+div.cadastro form input.btn-success{
+    margin-top: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: block;
+    width: 220px;
+}
+
+nav ul li{
+    margin: 5px auto;
+}
+
+nav a.sair{
+    position: absolute;
+    padding: 5px;
+    margin-left: 25%;
+}
+
+nav h2{
+    width: 450px;
+    text-align: center;
+    margin: 20px auto 20px 0;
+}
+
+nav h2.cliente{
+    width: 360px;
+}
+
+section table, tr, th, td{
+    border: 1px solid rgb(153, 153, 153);
+}
+
+section{
+    width: 50%;
+    margin-top: 40px;
+}
+section table{
+    margin-left: 4%;
+}
+
+section table th{
+    background-color: #eee;
+    text-align: center;
+}
+
+div.cliente{
+    width: 230px;
+    margin: 40px auto 0 40px;
+}
+
+div.cliente form{
+    margin: 15px;
+}
+
+div.cliente form label{
+    margin-top: 10px;
+}
+
+div.cliente form input, select{
+    display: block;
+    margin-top: -5px;
+}
+
+div.input-form{
+    width: 195px;
+    margin-top: 25px;
+}
+
+div.input-form input{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+
+
+
+
