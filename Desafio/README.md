@@ -36,4 +36,3 @@ obs:
 	- preencher campos automaticamente usando o CEP através do viacep.com.br
 	- login com o facebook
 	- não consegui implementar a parte da API do google maps exibindo a localização
-
