@@ -4,7 +4,10 @@ Sistema básico para efetuar login e cadastro de clientes
 
 Configuração localhost: banco "desafio", porta "3306", login "root", senha "", servidor apache v2.4 "127.0.0.1"
 	
-Execução do desafio: como padrão o sistema inicia em index.php (página principal); se caso, o usuário não tenha cadastro no sistema, clicar em "Cadastrar-se" e preencher o formulário; se caso, o usuário já tenha efetuado o cadastro, fazer o login;
+Execução do desafio: 
+como padrão o sistema inicia em index.php (página principal); 
+se caso, o usuário não tenha cadastro no sistema, clicar em "Cadastrar-se" e preencher o formulário;
+se caso, o usuário já tenha efetuado o cadastro, fazer o login;
 	- login: 
 		> cadastro no sistema
 		> facebook
