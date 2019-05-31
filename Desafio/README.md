@@ -2,12 +2,12 @@
 
 Sistema básico para efetuar login e cadastro de clientes
 
-Configuração localhost: 
- -banco "desafio";
- -porta "3306";
- -login "root";
- -senha "";
- -servidor apache v2.4 "127.0.0.1"
+ 	Configuração localhost: 
+ 	 -banco "desafio";
+ 	 -porta "3306";
+ 	 -login "root";
+ 	 -senha "";
+ 	 -servidor apache v2.4 "127.0.0.1"
 	
 Execução do desafio: 
  -como padrão o sistema inicia em index.php (página principal); 
@@ -17,22 +17,22 @@ Execução do desafio:
 	> cadastro no sistema;
 	> facebook
 		
-	- quando o usuário fizer o login, entrará na pagina home.php (administrador), que tem por padrão
+ - Quando o usuário fizer o login, entrará na pagina home.php (administrador), que tem por padrão
 a visualização da tabela de clientes, podendo fazer operações de alterar/remover direto da tabela;
 
-	- Links da tabela:
-		> alterar: assim que o usuário clicar no link "alterar" na tabela, exibirá um 'confirm dialog', clicando em "OK",
+- Links da tabela:
+	> alterar: assim que o usuário clicar no link "alterar" na tabela, exibirá um 'confirm dialog', clicando em "OK",
 será redirecionado para a página de alterar os dados do cliente;
-		> remover: quando o usuário clicar no link "remover" na tabela, exibirá um 'confirm dialog', clicando em "OK",
+	> remover: quando o usuário clicar no link "remover" na tabela, exibirá um 'confirm dialog', clicando em "OK",
 o cliente será removido do banco de dados;
-		
-	- no link "Cadastrar Cliente" o usuário poderá inserir o cliente preenchendo os campos: nome e telefone, ao digitar o CEP
+
+ - No link "Cadastrar Cliente" o usuário poderá inserir o cliente preenchendo os campos: nome e telefone, ao digitar o CEP
 o sistema irá preencher automaticamente: endereço, bairro, cidade, estado e país, depois o campo número estará em foco
 para o usuário preencher;
 
 
-obs: 
+	OBS: 
 	- As máscaras de CEP e TELEFONE estão implementadas;
-	- preencher campos automaticamente usando o CEP através do viacep.com.br;
-	- login com o facebook;
-	- não consegui implementar a parte da API do google maps exibindo a localização.
+	- Preencher campos automaticamente usando o CEP através do viacep.com.br;
+	- Login com o facebook;
+	- Não consegui implementar a parte da API do google maps exibindo a localização.
