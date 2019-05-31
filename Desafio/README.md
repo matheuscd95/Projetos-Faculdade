@@ -13,9 +13,9 @@ Execução do desafio:
  -como padrão o sistema inicia em index.php (página principal); 
  -se caso, o usuário não tenha cadastro no sistema, clicar em "Cadastrar-se" e preencher o formulário;
  -se caso, o usuário já tenha efetuado o cadastro, fazer o login;
-	- login: 
-		> cadastro no sistema
-		> facebook
+ -login: 
+	> cadastro no sistema;
+	> facebook
 		
 	- quando o usuário fizer o login, entrará na pagina home.php (administrador), que tem por padrão
 a visualização da tabela de clientes, podendo fazer operações de alterar/remover direto da tabela
