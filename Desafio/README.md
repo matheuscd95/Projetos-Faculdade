@@ -11,13 +11,13 @@ Sistema básico para efetuar login e cadastro de clientes
 	
 Execução do desafio: 
  - Como padrão o sistema inicia em index.php (página principal); 
- - Se caso, o usuário não tenha cadastro no sistema, clicar em "Cadastrar-se" e preencher o formulário;
+ - Se caso, o usuário não tenha cadastro no sistema, clicar em "Cadastrar-se" para ser redirecionado para a pagina "cadastro.php" e preencher o formulário;
  - Se caso, o usuário já tenha efetuado o cadastro, fazer o login;
  - Login: 
 	- Cadastro no sistema;
 	- Facebook;
 		
- - Quando o usuário fizer o login, entrará na pagina home.php (administrador), que tem por padrão
+ - Quando o usuário fizer o login, entrará na pagina "home.php" (administrador), que tem por padrão
 a visualização da tabela de clientes, podendo fazer operações de alterar/remover direto da tabela;
 
 - Links da tabela:
